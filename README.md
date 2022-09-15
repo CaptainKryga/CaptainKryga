@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jbashiri)\ -->
 <!-- ![captainkryga's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainkryga&show_icons=true&theme=radical) -->
-![image](https://vk.com/doc1841681_639624952?hash=dUVxLrBwTpO5fW1vVpP3wzgKnPzxcSpz3RqcROuQPC8&dl=usO2FC0yc3HGbZQxmQw700zOW1CIW4PScs19fq8X9sP&wnd=1&module=im&mp4=1)
+![image](https://github.com/CaptainKryga/CaptainKryga/blob/main/push_master.gif)
