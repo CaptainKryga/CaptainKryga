@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga)](https://github.com/ashutosh00710/react-dark-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jbashiri)\ -->
 <!-- ![captainkryga's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainkryga&show_icons=true&theme=radical) -->
