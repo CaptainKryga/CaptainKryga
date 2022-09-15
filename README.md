@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Denis and i am middle unity programmer
 
 <!--
 **CaptainKryga/CaptainKryga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jbashiri)\ -->
 <!-- ![captainkryga's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainkryga&show_icons=true&theme=radical) -->
+### GOOD LUCK => PUSH TO MASTER
 ![image](https://github.com/CaptainKryga/CaptainKryga/blob/main/push_master.gif)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
