@@ -1,24 +1,21 @@
-### Hi there 👋 [My VLOG](https://t.me/captainkryga_vlog)
-### My name is Denis or CaptainKryga and i am middle unity programmer
+# 🚀 Hello, I'm Denis (CaptainKryga) 
 
-<!--
-**CaptainKryga/CaptainKryga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Middle Unity Developer | Game Enthusiast | Content Creator**
 
-Here are some ideas to get you started:
+[![Telegram Vlog](https://img.shields.io/badge/-VLOG-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/captainkryga_vlog)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2z8n9O2iOhsUyOvoddyaiw/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CaptainKryga)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!-- ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jbashiri)\ -->
-<!-- ![captainkryga's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainkryga&show_icons=true&theme=radical) -->
-### GOOD LUCK => PUSH TO MASTER
-![image](https://github.com/CaptainKryga/CaptainKryga/blob/main/push_master.gif)
+### 🔧 Technologies & Tools
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=captainkryga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🎮 My best projects
+- [AutoGTranslate-for-Unity](https://github.com/CaptainKryga/AutoGTranslate-for-Unity) - Automate game localization with Google Translate directly in Unity Editor
+Save hundreds of hours manual translation work with this free open-source solution
+---
