@@ -1,5 +1,5 @@
-### Hi there 👋 [DREAM SHIP](https://t.me/devdreamship)
-### My name is Denis and i am middle unity programmer
+### Hi there 👋 [My VLOG](https://t.me/captainkryga_vlog)
+### My name is Denis or CaptainKryga and i am middle unity programmer
 
 <!--
 **CaptainKryga/CaptainKryga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
