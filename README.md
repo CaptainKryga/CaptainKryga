@@ -16,6 +16,7 @@
 ---
 
 ### 🎮 My best projects
-- [AutoGTranslate-for-Unity](https://github.com/CaptainKryga/AutoGTranslate-for-Unity) - Automate game localization with Google Translate directly in Unity Editor
-Save hundreds of hours manual translation work with this free open-source solution
+- [AutoGTranslate-for-Unity](https://github.com/CaptainKryga/AutoGTranslate-for-Unity) - Automate game localization with Google Translate directly in Unity Editor. Save hundreds of hours manual translation work with this free open-source solution
+----
+- [telegram-bot-base](https://github.com/CaptainKryga/telegram-bot-base) - Jumpstart your Telegram bot development with this clean, well-structured base. Perfect for both beginners and experienced developers looking for a solid foundation.
 ---
